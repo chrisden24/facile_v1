@@ -87,8 +87,8 @@
                                 At <strong>FACILE</strong>, our Vendor Audit Services are designed to evaluate, monitor, and strengthen your vendor compliance framework, ensuring that every external partner adheres to statutory and contractual obligations.
                             </p>
 
-                            <p class="service-details__text-2">
-                                By leveraging our proprietary tool <strong>F.A.C.I.L.E (Fast Audit & Compliance Intelligent Legal Engine)</strong>, businesses can automate audit processes, simplify vendor submissions, and generate instant compliance scores for better decision-making.
+                            <p class="service-details__text-2 facile-title">
+                                By leveraging our proprietary tool <strong>F.A.C.I.L.E (Fast Automated Compliance & Intelligent Legal Engine)</strong>, businesses can automate audit processes, simplify vendor submissions, and generate instant compliance scores for better decision-making.
                             </p>
 
                             <h4 class="mt-4 mb-3">Our Key Offerings</h4>

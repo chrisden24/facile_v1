@@ -3856,6 +3856,10 @@ p.banner-one__text strong {
   color: var(--facile-base);
 }
 
+p.facile-title strong {
+  color: var(--facile-base);
+}
+
 h3.banner-one__text {
   margin-bottom: 15px;
 }
