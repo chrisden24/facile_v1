@@ -14,7 +14,7 @@
 
 
 
-        <!--Page Header Start-->d
+        <!--Page Header Start-->
         <section class="page-header">
             <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/product-bg.jpg);">
             </div>
