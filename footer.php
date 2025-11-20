@@ -105,14 +105,14 @@
     </div><!-- /.page-wrapper -->
 
 
-    <div class="mobile-nav__wrapper">
+  <div class="mobile-nav__wrapper">
         <div class="mobile-nav__overlay mobile-nav__toggler"></div>
         <!-- /.mobile-nav__overlay -->
         <div class="mobile-nav__content">
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.php" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="150"
+                <a href="index.php" aria-label="logo image"><img src="assets/images/logo.png" width="170"
                         alt="" /></a>
             </div>
             <!-- /.logo-box -->
@@ -122,11 +122,11 @@
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="fa fa-envelope"></i>
-                    <a href="mailto:needhelp@packageName__.com">needhelp@Itzone.com</a>
+                    <a href="mailto:Info@facilemanagement.com">Info@facilemanagement.com</a>
                 </li>
                 <li>
                     <i class="fas fa-phone"></i>
-                    <a href="tel:666-888-0000">666 888 0000</a>
+                    <a href="tel:+91 91769 69399">+91 91769 69399</a>
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
