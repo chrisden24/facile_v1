@@ -294,7 +294,7 @@
   justify-content: center;
   width: 90px;
   height: 90px;
-  /* border: 1px solid rgba(var(--facile-base-rgb), 0.5); */
+  border: 1px solid rgba(var(--facile-base-rgb), 0.5);
   border-radius: 5px;
 }
 

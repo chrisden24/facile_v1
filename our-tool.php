@@ -16,7 +16,7 @@
                       </span>
                   </div>
               </div>
-              <p class="banner-one__text">At the core of our services is <strong>F.A.C.I.L.E (Fast Automated Compliance & Intelligent Legal Engine)</strong> <br>our proprietary platform that redefines compliance management.</p>
+              <p class="lead">At the core of our services is <b>Fast Automated Compliance & Intelligent Legal Engine</b><br>our proprietary platform that redefines compliance management.</p>
           </div>
           <div class="row justify-content-center text-center">
               <div class="col-md-4">
