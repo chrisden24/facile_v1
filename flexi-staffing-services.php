@@ -141,7 +141,7 @@
     <div class="accrodion">
       <div class="accrodion-title"><h4>How does Facile ensure compliance for Flexi Staff?</h4></div>
       <div class="accrodion-content"><div class="inner">
-        <p class="facile-title">Every staff member deployed through Facile is onboarded and managed within our <strong>F.A.C.I.L.E (Fast Automated Compliance & Intelligent Legal Engine)</strong> platform. The system automatically generates and maintains:
+        <p>Every staff member deployed through Facile is onboarded and managed within our F.A.C.I.L.E. (Fast Audit & Compliance Intelligent Legal Engine) platform. The system automatically generates and maintains:
 •   EPF, ESIC, and Professional Tax records
 •   Wage registers and attendance logs
 •   Periodic compliance reports and audit trails

@@ -2059,8 +2059,7 @@ xs sidebar
 
 .mobile-nav__content {
   width: 300px;
-   background-color:#fff;
-  /* background-color: var(--facile-black); */
+  background-color: var(--facile-black);
   z-index: 10;
   position: relative;
   height: 100%;
@@ -2117,16 +2116,14 @@ xs sidebar
 .mobile-nav__content .main-menu__list>li>ul,
 .mobile-nav__content .main-menu__list>li>ul>li>ul {
   display: none;
-  /* border-top: 1px solid rgba(255, 255, 255, 0.1); */
-  border-top: 1px solid rgb(33 51 109);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
   margin-left: 0.5em;
 }
 
 .mobile-nav__content .main-menu__list>li:not(:last-child),
 .mobile-nav__content .main-menu__list>li>ul>li:not(:last-child),
 .mobile-nav__content .main-menu__list>li>ul>li>ul>li:not(:last-child) {
-  /* border-bottom: 1px solid rgba(255, 255, 255, 0.1); */
-  border-bottom: 1px solid rgb(33 51 109);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .mobile-nav__content .main-menu__list>li>a>.main-menu-border {
@@ -2143,8 +2140,7 @@ xs sidebar
   -ms-flex-pack: justify;
   justify-content: space-between;
   line-height: 30px;
-  /* color: #ffffff; */
-   color: #000000;
+  color: #ffffff;
   font-size: 14px;
   font-family: var(--facile-font, "Rubik", sans-serif);
   font-weight: 500;
@@ -2237,12 +2233,8 @@ xs sidebar
 }
 
 .mobile-nav__container {
-  /* border-top: 1px solid rgba(255, 255, 255, 0.1);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1); */
-
-  border-top: 1px solid rgb(33 51 109);
-  border-bottom: 1px solid rgb(33 51 109);
-  
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .mobile-nav__social {
@@ -2325,7 +2317,7 @@ xs sidebar
 }
 
 .mobile-nav__contact li a {
-  color: var(--facile-base);;
+  color: #ffffff;
   -webkit-transition: 500ms;
   transition: 500ms;
 }
@@ -2360,8 +2352,6 @@ xs sidebar
 .mobile-nav__container .main-menu__login {
   display: none;
 }
-
-
 
 
 
@@ -3863,10 +3853,6 @@ p.banner-one__text {
 }
 
 p.banner-one__text strong {
-  color: var(--facile-base);
-}
-
-p.facile-title strong {
   color: var(--facile-base);
 }
 

@@ -371,6 +371,7 @@
                                     </ul>
                                 </li>
 
+
                                 <li class="dropdown megamenu">
                                     <a href="#0">Products</a>
                                     <ul class="mega-dropdown-bg">
@@ -446,101 +447,6 @@
                                                             </div>
 
                                                         </div><!-- products-grid -->
-
-                                                    </div>
-                                                </div>
-                                            </section>
-                                        </li>
-                                    </ul>
-                                </li>
-
-                                <li class="dropdown megamenu">
-                                    <a href="#0">E-Library</a>
-                                    <ul class="mega-dropdown-bg">
-                                        <li>
-                                            <section class="home-showcase">
-                                                <div class="container">
-                                                    <div class="home-showcase__inner">
-                                                        <div class="section-title text-center mb-5">
-                                                            <div class="section-title text-left sec-title-animation animation-style2">
-                                                                <div class="section-title__tagline-box">
-                                                                    <span class="section-title__tagline">
-                                                                        <h2
-                                                                            class="section-title__title banner-one__tagline">
-                                                                            Comming
-                                                                            <span>Soon....</span>
-                                                                        </h2>
-                                                                    </span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- <div class="products-grid">
-
-                                                            <div class="home-product-card">
-                                                                <a class="home-product-link"
-                                                                    href="facile-statutory-tool.php">
-                                                                    <div class="home-product-flex">
-                                                                        <div class="home-product-icon">
-                                                                            <img src="assets/images/products/1.png"
-                                                                                alt="">
-                                                                        </div>
-                                                                        <h3
-                                                                            class="home-showcase__title menu-product-title">
-                                                                            FACILE Statutory Tool
-                                                                        </h3>
-                                                                    </div>
-                                                                </a>
-                                                            </div>
-
-                                                            <div class="home-product-card">
-                                                                <a class="home-product-link"
-                                                                    href="facile-monthly-compliance.php">
-                                                                    <div class="home-product-flex">
-                                                                        <div class="home-product-icon">
-                                                                            <img src="assets/images/products/2.png"
-                                                                                alt="">
-                                                                        </div>
-                                                                        <h3
-                                                                            class="home-showcase__title menu-product-title">
-                                                                            FACILE Monthly Compliance
-                                                                        </h3>
-                                                                    </div>
-                                                                </a>
-                                                            </div>
-
-                                                            <div class="home-product-card">
-                                                                <a class="home-product-link"
-                                                                    href="facile-vendor-audit.php">
-                                                                    <div class="home-product-flex">
-                                                                        <div class="home-product-icon">
-                                                                            <img src="assets/images/products/3.png"
-                                                                                alt="">
-                                                                        </div>
-                                                                        <h3
-                                                                            class="home-showcase__title menu-product-title">
-                                                                            FACILE Vendor Audit
-                                                                        </h3>
-                                                                    </div>
-                                                                </a>
-                                                            </div>
-
-                                                            <div class="home-product-card">
-                                                                <a class="home-product-link"
-                                                                    href="facile-license-management.php">
-                                                                    <div class="home-product-flex">
-                                                                        <div class="home-product-icon">
-                                                                            <img src="assets/images/products/4.png"
-                                                                                alt="">
-                                                                        </div>
-                                                                        <h3
-                                                                            class="home-showcase__title menu-product-title">
-                                                                            FACILE License Management
-                                                                        </h3>
-                                                                    </div>
-                                                                </a>
-                                                            </div>
-
-                                                        </div> -->
 
                                                     </div>
                                                 </div>

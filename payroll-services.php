@@ -66,8 +66,8 @@
                             Managing payroll manually can be complex, time-consuming, and prone to errors. Facile’s Payroll Services combine automation, accuracy, and statutory compliance to simplify payroll management for organizations of all sizes.
                         </p>
 
-                        <p class="service-details__text-2 facile-title">
-                            Our AI-driven <strong>F.A.C.I.L.E (Fast Automated Compliance & Intelligent Legal Engine)</strong> platform processes employee data, attendance, and statutory deductions in seconds — ensuring every salary is paid accurately, on time, and in full compliance with labour laws.
+                        <p class="service-details__text-2">
+                            Our AI-driven F.A.C.I.L.E. (Fast Audit & Compliance Intelligent Legal Engine) platform processes employee data, attendance, and statutory deductions in seconds — ensuring every salary is paid accurately, on time, and in full compliance with labour laws.
                         </p>
 
                         <h4 class="mt-4">Our Key Features:</h4>
