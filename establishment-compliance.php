@@ -146,7 +146,7 @@
           <!-- Tool Support Section -->
           <div class="tool-support-box wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1200ms">
             <h3>How Our Tool Supports Establishment Compliance</h3>
-            <p>Our <strong>FACILE compliance tool</strong> automates and simplifies the complex compliance process, giving you peace of mind and saving valuable time. Key features include:</p>
+            <p>Our <strong>FACILE Compliance Tool</strong> automates and simplifies the complex compliance process, giving you peace of mind and saving valuable time. Key features include:</p>
             <ul>
               <li>Automated compliance calendar with alerts for due dates.</li>
               <li>One-click generation of statutory registers and reports.</li>

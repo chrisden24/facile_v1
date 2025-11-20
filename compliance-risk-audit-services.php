@@ -66,8 +66,8 @@
                             In today’s regulatory environment, non-compliance can result in severe financial penalties, reputational damage, and business disruptions. Facile’s Compliance Risk Audit Services are designed to help organizations identify potential risks, evaluate statutory gaps, and implement corrective actions before issues escalate.
                         </p>
 
-                        <p class="service-details__text-2">
-                            Through our advanced F.A.C.I.L.E. (Fast Audit & Compliance Intelligent Legal Engine) platform, every compliance activity - from register maintenance to vendor documentation - is monitored, verified, and digitally scored, giving you a complete picture of your compliance health in real time.
+                        <p class="service-details__text-2 facile-title">
+                            Through our advanced <strong>F.A.C.I.L.E (Fast Automated Compliance & Intelligent Legal Engine)</strong> platform, every compliance activity - from register maintenance to vendor documentation - is monitored, verified, and digitally scored, giving you a complete picture of your compliance health in real time.
                         </p>
 
                         <h4 class="mt-4">Our Key Features:</h4>

@@ -895,7 +895,7 @@
                                 <div class="accrodion-content">
                                     <div class="inner">
                                         <p>
-                                            FACILE (Fast Auto Compliance Intelligent Legal Engine) is a smart platform
+                                            <strong>F.A.C.I.L.E (Fast Auto Compliance & Intelligent Legal Engine)</strong> is a smart platform
                                             that automates all compliance registers, filings, and audit reports. With a
                                             single click, you can generate statutory
                                             registers, vendor compliance scores, and audit-ready documents.

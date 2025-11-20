@@ -10,10 +10,6 @@
 
     <?php include("header.php"); ?>
 
-
-
-
-
         <!--Page Header Start-->
         <section class="page-header">
             <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/product-bg.jpg);">
