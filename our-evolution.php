@@ -8,12 +8,12 @@
             </div>
         </div>
         <div class="section-title text-center sec-title-animation animation-style1">
-            <p class=" mt-3 mb-5">
+            <p class="banner-one__text mt-3 mb-5">
                 At Facile Management Services (OPC) Private Limited, our journey has been driven by a vision to simplify
                 compliance and HR functions for businesses of all sizes. What started as statutory compliance has
                 evolved into an
                 end-to-end digital compliance platform powered by<br />
-                <b>Fast Automated Compliance & Intelligent Legal Engine</b>.
+                <strong>F.A.C.I.L.E (Fast Automated Compliance & Intelligent Legal Engine)</strong>.
             </p>
         </div>
         <!-- <h2 class="section-title__title title-animation">Our <span>Evolution</span></h2>
