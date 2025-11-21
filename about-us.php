@@ -62,42 +62,52 @@
             </div>
           </div>
         </div>
-        <div class="col-xl-12">
-          <div class="row text-center mt-4 pt-5">
-            <div class="col-md-3">
-              <div class="service-card gradient-border gradient-border-odd">
-                <div class="service-icon cus-ic-color-1"><i class="fas fa-gavel"></i></div>
+      <div class="container my-5">
+    <div class="row g-4 text-center">
+
+        <div class="col-12 col-sm-6 col-lg-3">
+            <div class="feature-box gradient-border gradient-border-odd">
+                <div class="service-icon cus-ic-color-1">
+                    <i class="fas fa-gavel"></i>
+                </div>
                 <h5>Regulatory Compliance</h5>
                 <p>Ensuring 100% adherence to statutory laws and labor regulations.</p>
-              </div>
             </div>
+        </div>
 
-            <div class="col-md-3">
-              <div class="service-card gradient-border gradient-border-even">
-                <div class="service-icon cus-ic-color-2"><i class="fas fa-digital-tachograph"></i></div>
+        <div class="col-12 col-sm-6 col-lg-3">
+            <div class="feature-box gradient-border gradient-border-even">
+                <div class="service-icon cus-ic-color-2">
+                    <i class="fas fa-digital-tachograph"></i>
+                </div>
                 <h5>Digital Transformation</h5>
                 <p>Replacing manual processes with automated compliance solutions.</p>
-              </div>
             </div>
+        </div>
 
-            <div class="col-md-3">
-              <div class="service-card gradient-border gradient-border-odd">
-                <div class="service-icon cus-ic-color-1"><i class="fas fa-users-cog"></i></div>
+        <div class="col-12 col-sm-6 col-lg-3">
+            <div class="feature-box gradient-border gradient-border-odd">
+                <div class="service-icon cus-ic-color-1">
+                    <i class="fas fa-users-cog"></i>
+                </div>
                 <h5>Vendor & Workforce</h5>
                 <p>Transparent compliance for vendors, subcontractors, and employees.</p>
-              </div>
             </div>
+        </div>
 
-            <div class="col-md-3">
-              <div class="service-card gradient-border gradient-border-even">
-                <div class="service-icon cus-ic-color-2"><i class="fas fa-clipboard-check"></i></div>
+        <div class="col-12 col-sm-6 col-lg-3">
+            <div class="feature-box gradient-border gradient-border-even">
+                <div class="service-icon cus-ic-color-2">
+                    <i class="fas fa-clipboard-check"></i>
+                </div>
                 <h5>Audit & Risk</h5>
                 <p>Inspection-ready reports and alerts to minimize compliance risks.</p>
-              </div>
             </div>
-
-          </div>
         </div>
+
+    </div>
+</div>
+
       </div>
     </div>
   </section>
@@ -159,37 +169,73 @@
   <!-- Our Evolution End -->
 
   <style>
-    .gradient-border-odd::before {
-      background: linear-gradient(90deg, #21336D, #f5821f, #21336D);
-    }
+    /* Main updated class */
+.feature-box {
+    padding: 25px 20px;
+    background: #ffffff;
+    border-radius: 12px;
+    height: 100%;
+    transition: transform 0.3s ease;
+    position: relative;
+}
 
-    .gradient-border-even::before {
-      background: linear-gradient(90deg, #f5821f, #21336D, #f5821f);
-    }
+/* Hover effect */
+.feature-box:hover {
+    transform: translateY(-5px);
+}
 
-    .gradient-border {
-      position: relative;
-      border-radius: 12px;
-      padding: 20px;
-      background: #fff;
-    }
+.service-icon {
+    font-size: 45px;
+    margin-bottom: 15px;
+}
 
-    .gradient-border::before {
-      content: "";
-      position: absolute;
-      inset: 0;
-      padding: 2px;
-      border-radius: 12px;
-      -webkit-mask:
+.cus-ic-color-1 { color: #21336D; }
+.cus-ic-color-2 { color: #f5821f; }
+
+/* Gradient Border */
+.gradient-border {
+    position: relative;
+}
+
+.gradient-border::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    padding: 2px;
+    border-radius: 12px;
+    -webkit-mask:
         linear-gradient(#fff 0 0) content-box,
         linear-gradient(#fff 0 0);
-      mask:
+    mask:
         linear-gradient(#fff 0 0) content-box,
         linear-gradient(#fff 0 0);
-      -webkit-mask-composite: xor;
-      mask-composite: exclude;
-    }
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+}
 
+.gradient-border-odd::before {
+    background: linear-gradient(90deg, #21336D, #f5821f, #21336D);
+}
+
+.gradient-border-even::before {
+    background: linear-gradient(90deg, #f5821f, #21336D, #f5821f);
+}
+
+/* Responsive fixes */
+@media (max-width: 767px) {
+    .feature-box {
+        padding: 20px;
+    }
+    .service-icon {
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 575px) {
+    .feature-box {
+        margin-bottom: 15px;
+    }
+}
 
     .service-card {
       background: #fff;

@@ -690,179 +690,6 @@
     <!--Brand One End -->
 
     <!-- Testimonial One Start -->
-    <!-- <section class="testimonial-one">
-            <div class="testimonial-one__bg-color">
-                <div class="testimonial-one__bg" style="background-image: url(assets/images/backgrounds/testimonial-one-bg.jpg);"></div>
-            </div>
-
-            <div class="container">
-                <div class="section-title text-center sec-title-animation animation-style1">
-                    <div class="section-title__tagline-box">
-                        <span class="section-title__tagline">Testimonials
-                        </span>
-                    </div>
-                    <h2 class="section-title__title title-animation">Testimonials</h2>
-                    <h2 class="section-title__title title-animation">What Client Say <span>About </span>us
-                    </h2>
-                </div>
-                <div class="testimonial-one__carousel owl-theme owl-carousel">
-                  
-                    <div class="item">
-                        <div class="testimonial-one__single">
-                            <div class="testimonial-one__single-inner">
-                                <div class="testimonial-one__single-shape-1"></div>
-                                <div class="testimonial-one__star">
-                                    <span class="icon-star-1"></span>
-                                    <span class="icon-star-1"></span>
-                                    <span class="icon-star-1"></span>
-                                    <span class="icon-star-1"></span>
-                                    <span class="icon-star-1"></span>
-                                </div>
-                                <p class="testimonial-one__text">
-                                    With FACILE, our monthly compliance process has become completely hassle-free. The tool automatically generates registers and returns, and the reminders for due dates ensure we never miss a filing. It has
-                                    saved us both time and penalties.
-                                </p>
-                            </div>
-                            <div class="testimonial-one__client-info">
-                                <div class="testimonial-one__client-img">
-                                    <img src="assets/images/user.png" alt="" />
-                                </div>
-                                <div class="testimonial-one__client-content">
-                                    <h4 class="testimonial-one__client-name"><a href="#0">— R. Prakash, HR Manager, Manufacturing Sector</a></h4>
-                                  
-                                </div>
-                            </div>
-                            <div class="testimonial-one__quote">
-                                <span class="fal fa-quote-right"></span>
-                            </div>
-                        </div>
-                    </div>
-                 
-                    <div class="item">
-                        <div class="testimonial-one__single">
-                            <div class="testimonial-one__single-inner">
-                                <div class="testimonial-one__single-shape-1"></div>
-                                <div class="testimonial-one__star">
-                                    <span class="icon-star-1"></span>
-                                    <span class="icon-star-1"></span>
-                                    <span class="icon-star-1"></span>
-                                    <span class="icon-star-1"></span>
-                                    <span class="icon-star-1"></span>
-                                </div>
-                                <p class="testimonial-one__text">
-                                    Earlier, vendor compliance audits were chaotic, with tons of paperwork. Thanks to FACILE’s compliance scoring system, we now track vendor performance in real time. Transparency has improved, and we can
-                                    confidently onboard and manage vendors.
-                                </p>
-                            </div>
-                            <div class="testimonial-one__client-info">
-                                <div class="testimonial-one__client-img">
-                                    <img src="assets/images/user.png" alt="" />
-                                </div>
-                                <div class="testimonial-one__client-content">
-                                    <h4 class="testimonial-one__client-name"><a href="#0">— A. Meena, Compliance Officer, Costruction Industries</a></h4>
-                                  
-                                </div>
-                            </div>
-                            <div class="testimonial-one__quote">
-                                <span class="fal fa-quote-right"></span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="testimonial-one__single">
-                            <div class="testimonial-one__single-inner">
-                                <div class="testimonial-one__single-shape-1"></div>
-                                <div class="testimonial-one__star">
-                                    <span class="icon-star-1"></span>
-                                    <span class="icon-star-1"></span>
-                                    <span class="icon-star-1"></span>
-                                    <span class="icon-star-1"></span>
-                                    <span class="icon-star-1"></span>
-                                </div>
-                                <p class="testimonial-one__text">
-                                    We struggled with managing sub-contractor payrolls and statutory obligations. FACILE’s payroll compliance features simplified everything, from PF & ESIC filings to transparent payments. Our workforce is
-                                    satisfied, and audits are smoother.
-                                </p>
-                            </div>
-                            <div class="testimonial-one__client-info">
-                                <div class="testimonial-one__client-img">
-                                    <img src="assets/images/user.png" alt="" />
-                                </div>
-                                <div class="testimonial-one__client-content">
-                                    <h4 class="testimonial-one__client-name"><a href="#0">— S. Kumar, Operations Head, Infrastructure</a></h4>
-                                  
-                                </div>
-                            </div>
-                            <div class="testimonial-one__quote">
-                                <span class="fal fa-quote-right"></span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="testimonial-one__single">
-                            <div class="testimonial-one__single-inner">
-                                <div class="testimonial-one__single-shape-1"></div>
-                                <div class="testimonial-one__star">
-                                    <span class="icon-star-1"></span>
-                                    <span class="icon-star-1"></span>
-                                    <span class="icon-star-1"></span>
-                                    <span class="icon-star-1"></span>
-                                    <span class="icon-star-1"></span>
-                                </div>
-                                <p class="testimonial-one__text">
-                                    FACILE keeps all our compliance data and registers in one place, ready for inspections at any time. During audits, we no longer scramble for records. The instant reports and historical registers are a
-                                    true game-changer.
-                                </p>
-                            </div>
-                            <div class="testimonial-one__client-info">
-                                <div class="testimonial-one__client-img">
-                                    <img src="assets/images/user.png" alt="" />
-                                </div>
-                                <div class="testimonial-one__client-content">
-                                    <h4 class="testimonial-one__client-name"><a href="#0">— V. Lakshmi, Finance Controller, Construction Industries</a></h4>
-                                  
-                                </div>
-                            </div>
-                            <div class="testimonial-one__quote">
-                                <span class="fal fa-quote-right"></span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="testimonial-one__single">
-                            <div class="testimonial-one__single-inner">
-                                <div class="testimonial-one__single-shape-1"></div>
-                                <div class="testimonial-one__star">
-                                    <span class="icon-star-1"></span>
-                                    <span class="icon-star-1"></span>
-                                    <span class="icon-star-1"></span>
-                                    <span class="icon-star-1"></span>
-                                    <span class="icon-star-1"></span>
-                                </div>
-                                <p class="testimonial-one__text">
-                                    We reduced our compliance manpower costs by almost 40% after switching to FACILE. The automation ensures accuracy, while our team can now focus on strategy instead of chasing deadlines. It has been one of
-                                    the best investments for our company.
-                                </p>
-                            </div>
-                            <div class="testimonial-one__client-info">
-                                <div class="testimonial-one__client-img">
-                                    <img src="assets/images/user.png" alt="" />
-                                </div>
-                                <div class="testimonial-one__client-content">
-                                    <h4 class="testimonial-one__client-name"><a href="#0">— P. Senthil, Director, Infrastructure</a></h4>
-                                   
-                                </div>
-                            </div>
-                            <div class="testimonial-one__quote">
-                                <span class="fal fa-quote-right"></span>
-                            </div>
-                        </div>
-                    </div>
-                   
-                </div>
-            </div>
-       
-        </section> -->
     <?php include("testimonial.php"); ?>
     <!-- Testimonial One End -->
 
@@ -1155,16 +982,15 @@
     <!--Site Footer Start-->
     <?php include("footer.php"); ?>
     <script>
-    // Pause on mouseover
-    $('.project-one__carousel').on('mouseover', function() {
-        $(this).trigger('stop.owl.autoplay');
-    });
+        // Pause on mouseover
+        $('.project-one__carousel').on('mouseover', function() {
+            $(this).trigger('stop.owl.autoplay');
+        });
 
-    // Resume on mouseout
-    $('.project-one__carousel').on('mouseout', function() {
-        $(this).trigger('play.owl.autoplay', [3000]);
-    });
-
+        // Resume on mouseout
+        $('.project-one__carousel').on('mouseout', function() {
+            $(this).trigger('play.owl.autoplay', [3000]);
+        });
     </script>
 </head>
 
