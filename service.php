@@ -100,7 +100,7 @@
           </div>
           <div class="services-two__content">
             <h3><a href="demo-detials.php">Payroll Services</a></h3>
-            <p>Streamlined payroll processing ensuring accuracy, transparency, and compliance for employees and contractors.</p>
+            <p>Accurate, on-time payroll processing—so you can focus on growing your business.</p>
             <div class="services-two__plus"><a href="demo-detials.php"><span class="fas fa-plus"></span></a></div>
           </div>
         </div>
@@ -116,7 +116,7 @@
           </div>
           <div class="services-two__content">
             <h3><a href="demo-detials.php">Establishment Audit</a></h3>
-            <p>Detailed audit of HR & compliance practices to identify gaps and ensure organizations meet statutory standards.</p>
+            <p>Simplifying establishment compliance so you can operate with confidence and zero risk.</p>
             <div class="services-two__plus"><a href="demo-detials.php"><span class="fas fa-plus"></span></a></div>
           </div>
         </div>

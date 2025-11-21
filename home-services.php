@@ -23,10 +23,10 @@
                                 <div class="swiper-slide">
                                     <img src="assets/images/home-icon-001.png" class="service_icon" alt="">
                                     <h3>Establishment Compliance</h3>
-                                    <p>FACILE offers end-to-end Establishment Compliance Services to keep your business
-                                        fully aligned with legal and regulatory requirements. We manage licenses, labor
-                                        laws, statutory records, and compliance reports, ensuring smooth operations
-                                        while minimizing risks and penalties. .</p>
+                                    <p>We ensure your establishment meets all statutory requirements.
+From registrations to renewals, everything is handled end-to-end.
+Stay compliant with zero hassles and zero delays.
+Focus on your business while we manage the legal work.</p>
                                     <a href="establishment-compliance.php">Explore More</a>
                                 </div>
 
@@ -35,9 +35,10 @@
                                 <div class="swiper-slide">
                                     <img src="assets/images/home-icon-002.png" class="service_icon" alt="">
                                     <h3>Payroll Services</h3>
-                                    <p>Our Payroll Services help businesses of all sizes handle employee payments
-                                        smoothly and on time. Managing payroll can be complicated and time-consuming, so
-                                        many companies choose to outsource this task.</p>
+                                    <p>Accurate and timely payroll processing every month.
+We handle salaries, deductions, and statutory calculations.
+Zero errors, zero delays, and complete transparency.
+Focus on your business while we manage your payroll</p>
                                     <a href="payroll-services.php">Explore More</a>
                                 </div>
 
@@ -47,8 +48,7 @@
                                     <img src="assets/images/payroll-compliance-services-header-001.svg"
                                         class="service_icon" alt="">
                                     <h3>Payroll compliance Services</h3>
-                                    <p>Simplify EPF, ESI, PT, and LWF filings with auto-validation and one-click
-                                        compliance reports.</p>
+                                    <p>Our payroll compliance services ensure your organization stays fully aligned with all statutory requirements, including PF, ESI, PT, LWF, and TDS. We manage every aspect of documentation, monthly submissions, and annual filings with accuracy and timeliness. With continuous monitoring of regulatory updates, your payroll processes remain legally compliant at all times.</p>
                                     <a href="payroll-compliance-services.php">Explore More</a>
                                 </div>
 
@@ -57,9 +57,7 @@
                                 <div class="swiper-slide">
                                     <img src="assets/images/home-icon-004.png" class="service_icon" alt="">
                                     <h3>Third Party Payroll services</h3>
-                                    <p>Third-party payroll services are tailored to meet the unique business
-                                        requirements and help them achieve success. The size of the business
-                                        notwithstanding,</p>
+                                    <p>Our third-party payroll services provide a seamless way to manage your workforce without the burden of internal payroll operations. We handle salary processing, statutory compliance, documentation, and employee support with complete accuracy and confidentiality. By outsourcing your payroll to our experienced team, you eliminate errors, reduce costs, and ensure timely payouts every cycle.</p>
                                     <a href="third-party-payroll-services.php">Explore More</a>
                                 </div>
 
@@ -68,9 +66,7 @@
                                 <div class="swiper-slide">
                                     <img src="assets/images/home-icon-005.png" class="service_icon" alt="">
                                     <h3>Factory Compliance Services</h3>
-                                    <p>Compliance services for factories are crucial for manufacturing enterprises to
-                                        guarantee adherence to applicable laws, regulations, and safety standards that
-                                        govern their operations.</p>
+                                    <p>Factory compliance services ensure your manufacturing unit meets every statutory requirement under labor and safety regulations. We manage registrations, licenses, inspections, audits, and mandatory documentation with complete precision. With continuous monitoring of regulatory updates, your factory operations remain legally compliant and risk-free.</p>
                                     <a href="factory-compliance-services.php">Explore More</a>
                                 </div>
 
@@ -80,8 +76,7 @@
                                     <img src="assets/images/flexi-staffing-services-herder-001.svg" class="service_icon"
                                         alt="">
                                     <h3>Flexi Staffing Services</h3>
-                                    <p>Flexible, compliant workforce solutions with complete onboarding, payroll, and
-                                        statutory coverage.</p>
+                                    <p>Our flexi staffing services help businesses quickly scale their workforce according to project needs, seasonal demands, or short-term requirements. We provide pre-screened, skilled professionals who seamlessly integrate into your operations</p>
                                     <a href="flexi-staffing-services.php">Explore More</a>
                                 </div>
 
@@ -91,9 +86,7 @@
                                 <div class="swiper-slide">
                                     <img src="assets/images/home-icon-006.png" class="service_icon" alt="">
                                     <h3>Labour Law Compliance Services</h3>
-                                    <p>The complexity of labour laws is on the rise, posing challenges for businesses
-                                        striving to fulfil all legal requirements necessary for compliance with
-                                        applicable laws and regulations.</p>
+                                    <p>Labour law compliance services ensure your business adheres to all applicable labour regulations and employment laws. We manage registrations, filings, audits, and ongoing statutory requirements with complete accuracy. By monitoring updates and implementing best practices, we protect your organization from penalties and legal risks</p>
                                     <a href="labour-law-compliance-services.php">Explore More</a>
                                 </div>
 
@@ -104,8 +97,7 @@
                                     <img src="assets/images/compliance-risk-audit-services-herder-001.svg"
                                         class="service_icon" alt="">
                                     <h3>Compliance Risk Audit Services</h3>
-                                    <p>Comprehensive digital audits highlighting compliance gaps and risk scores
-                                        instantly.</p>
+                                    <p>Facile compliance and risk audit services help businesses identify gaps, mitigate risks, and ensure full adherence to legal and regulatory requirements. We conduct thorough audits of processes, policies, and documentation to uncover potential vulnerabilities. By implementing corrective measures and best practices, we protect your organization from penalties and operational risks.</p>
                                     <a href="compliance-risk-audit-services.php">Explore More</a>
                                 </div>
 
@@ -114,9 +106,7 @@
                                 <div class="swiper-slide">
                                     <img src="assets/images/home-icon-007.png" class="service_icon" alt="">
                                     <h3>EPF and ESIC Consultant</h3>
-                                    <p>Our team consists of experts dedicated to delivering a full range of services
-                                        concerning the Provident Fund and Employee State Insurance. We have extensive
-                                        expertise in the PF and ESI Acts,</p>
+                                    <p>EPF and ESIC consultancy services ensure your organization remains fully compliant with all statutory employee benefits regulations. We handle registrations, contributions, filings, and employee documentation with accuracy and timeliness. By staying updated with the latest rules and amendments, we help you avoid penalties and legal complications.</p>
                                     <a href="epf-and-esic-consultants.php">Explore More</a>
                                 </div>
 
@@ -125,9 +115,7 @@
                                 <div class="swiper-slide">
                                     <img src="assets/images/home-icon-008.png" class="service_icon" alt="">
                                     <h3>Vendor Compliance Services</h3>
-                                    <p>A vendor audit serves as a crucial tool for organizations to manage risks
-                                        associated with third-party relationships. This process involves a retrospective
-                                        examination of vendor invoices to confirm their alignment</p>
+                                    <p>F.A.C.I.L.E Vendor Audit Services help businesses ensure that their suppliers and partners comply with contractual, regulatory, and quality standards. We conduct thorough assessments of processes, documentation, and performance to identify potential risks and gaps. By implementing corrective actions and best practices, we help you mitigate financial, operational, and legal risks.</p>
                                     <a href="vendor-audit.php">Explore More</a>
                                 </div>
 
@@ -136,10 +124,7 @@
                                 <div class="swiper-slide">
                                     <img src="assets/images/home-icon-009.png" class="service_icon" alt="">
                                     <h3>Contractor Payroll & Compliance Services</h3>
-                                    <p>Seamless management of contractor payrolls with statutory compliance. From
-                                        invoice validation and payment processing to PF, ESIC, TDS, and labor law
-                                        adherence — we ensure your contractors are paid on time while keeping your
-                                        business fully compliant.</p>
+                                    <p>Our contractor payroll and compliance services streamline payments and statutory adherence for your contracted workforce. We manage salary processing, tax deductions, EPF/ESIC contributions, and all regulatory filings with complete accuracy. By ensuring timely payouts and full compliance, we protect your business from legal risks and penalties.</p>
                                     <a href="sub-contractor-payment-management.php">Explore More</a>
                                 </div>
 

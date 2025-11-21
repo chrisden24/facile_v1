@@ -144,8 +144,7 @@
                                         <div class="project-one__title-box">
                                             <h3 class="project-one__title-2"><a href="project-details.html">Vendor
                                                     Integration & Compliance Scoring</a></h3>
-                                            <p class="project-one__text">Enable vendors and sub-contractors to upload
-                                                compliance documents directly. F.A.C.I.L.E. auto-generates compliance
+                                            <p class="project-one__text">Enable vendors and sub-contractors to prepare compliance documents directly. F.A.C.I.L.E. auto-generates compliance
                                                 registers and vendor scores in one click.</p>
                                         </div>
                                     </div>

@@ -7,7 +7,7 @@
                     <div class="section-title__tagline-box">
                         <span class="section-title__tagline">Working Process</span>
                     </div>
-                    <h2 class="section-title__title title-animation">How we <span>works</span>
+                    <h2 class="section-title__title title-animation">How F.A.C.I.L.E <span>Works</span>
                     </h2>
                 </div>
                 <ul class="row list-unstyled">
@@ -22,8 +22,7 @@
                             </div>
                             <div class="process-two__count"></div>
                             <h3 class="process-two__title">Choose a Service</h3>
-                            <p class="process-two__text">Continua scale empowered metrics with cost effective
-                                innovation.</p>
+                            <p class="process-two__text">Select the Services that fits your business needs and organization</p>
                         </div>
                     </li>
                     <!-- Process One Single End -->
@@ -38,8 +37,7 @@
                             </div>
                             <div class="process-two__count"></div>
                             <h3 class="process-two__title">Request a Meeting</h3>
-                            <p class="process-two__text">Continua scale empowered metrics with cost effective
-                                innovation.</p>
+                            <p class="process-two__text">Connect with us to discuss your requirements for your organization</p>
                         </div>
                     </li>
                     <!-- Process One Single End -->
@@ -53,9 +51,8 @@
                                 <span class="icon-execution"></span>
                             </div>
                             <div class="process-two__count"></div>
-                            <h3 class="process-two__title">Receive Custom Plan</h3>
-                            <p class="process-two__text">Continua scale empowered metrics with cost effective
-                                innovation.</p>
+                            <h3 class="process-two__title">Receive a   Plan</h3>
+                            <p class="process-two__text">Get a customized plan designed for your organization.</p>
                         </div>
                     </li>
                     <!-- Process One Single End -->
@@ -69,9 +66,8 @@
                                 <span class="icon-results"></span>
                             </div>
                             <div class="process-two__count"></div>
-                            <h3 class="process-two__title">Let’s Make it Happen</h3>
-                            <p class="process-two__text">Continua scale empowered metrics with cost effective
-                                innovation.</p>
+                            <h3 class="process-two__title">Let’s Make it Compliance</h3>
+                            <p class="process-two__text">Compile Payroll and vendor audits in a single click.</p>
                         </div>
                     </li>
                     <!-- Process One Single End -->
