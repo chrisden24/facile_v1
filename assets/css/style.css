@@ -3889,3 +3889,109 @@ h3.banner-one__text {
     text-decoration: none !important;
     display: block;
 }
+
+/* ---------------------------------------------------------
+   PRODUCT ICON + TITLE FLEX
+--------------------------------------------------------- */
+.home-product-flex {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  white-space: normal;
+}
+
+.home-product-icon img {
+  width: 28px;
+  height: 28px;
+}
+
+/* Title (WRAP FIX) */
+.menu-product-title {
+  white-space: normal !important;
+  /* allow wrapping */
+  font-size: 15px;
+  line-height: 1.3;
+  margin: 0;
+}
+
+/* GRID – perfect PC/laptop responsiveness */
+.services-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(310px, 1fr));
+    gap: 18px;
+}
+
+/* Card */
+.services-grid .home-product-card {
+    background: #edf0fa;
+    border-radius: 12px;
+    padding: 14px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.07);
+    border: 1px solid rgba(0,0,0,0.05);
+    transition: .3s;
+}
+
+.services-grid .home-product-card:hover {
+    transform: translateY(-5px);
+}
+
+/* small screens */
+@media (max-width: 768px) {
+    .services-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.products-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 18px;
+}
+
+.products-grid .home-product-card {
+  width: 100%;
+}
+
+/* ---------------------------------------------------------
+   RESPONSIVE GRID FIX
+   (Your overlap happened because col-lg-4 = 3 columns)
+--------------------------------------------------------- */
+
+/* 2 columns for medium screens */
+@media (max-width: 1400px) {
+  .home-showcase .col-lg-4 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+
+/* 1 column for small screens */
+@media (max-width: 992px) {
+  .home-showcase .col-lg-4 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+
+/* ---------------------------------------------------------
+   TINY HEIGHT FIX (Your case: 1280 × 253 viewport)
+--------------------------------------------------------- */
+@media (max-height: 500px) {
+  .home-product-card {
+    padding: 10px;
+  }
+
+  .home-product-flex {
+    gap: 6px;
+  }
+
+  .menu-product-title {
+    font-size: 13px;
+    line-height: 1.25;
+  }
+
+  .home-product-icon img {
+    width: 24px;
+    height: 24px;
+  }
+}
