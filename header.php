@@ -197,7 +197,7 @@
                                 </li>
 
                                 <li class="dropdown megamenu">
-                                    <a href="#0">services</a>
+                                    <a href="#0">Services</a>
 
                                     <ul class="mega-dropdown-bg">
                                         <li>
