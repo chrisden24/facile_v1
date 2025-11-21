@@ -46,7 +46,7 @@
                                 <div class="swiper-slide">
                                     <img src="assets/images/payroll-compliance-services-header-001.svg"
                                         class="service_icon" alt="">
-                                    <h3>Payroll compliance Services</h3>
+                                    <h3>Payroll compliance</h3>
                                     <p>Simplify EPF, ESI, PT, and LWF filings with auto-validation and one-click
                                         compliance reports.</p>
                                     <a href="payroll-compliance-services.php">Explore More</a>
@@ -56,7 +56,7 @@
 
                                 <div class="swiper-slide">
                                     <img src="assets/images/home-icon-004.png" class="service_icon" alt="">
-                                    <h3>Third Party Payroll services</h3>
+                                    <h3>Third Party Payroll</h3>
                                     <p>Third-party payroll services are tailored to meet the unique business
                                         requirements and help them achieve success. The size of the business
                                         notwithstanding,</p>
@@ -67,7 +67,7 @@
 
                                 <div class="swiper-slide">
                                     <img src="assets/images/home-icon-005.png" class="service_icon" alt="">
-                                    <h3>Factory Compliance Services</h3>
+                                    <h3>Factory Compliance</h3>
                                     <p>Compliance services for factories are crucial for manufacturing enterprises to
                                         guarantee adherence to applicable laws, regulations, and safety standards that
                                         govern their operations.</p>
@@ -90,7 +90,7 @@
 
                                 <div class="swiper-slide">
                                     <img src="assets/images/home-icon-006.png" class="service_icon" alt="">
-                                    <h3>Labour Law Compliance Services</h3>
+                                    <h3>Labour Law Compliance</h3>
                                     <p>The complexity of labour laws is on the rise, posing challenges for businesses
                                         striving to fulfil all legal requirements necessary for compliance with
                                         applicable laws and regulations.</p>
@@ -124,7 +124,7 @@
 
                                 <div class="swiper-slide">
                                     <img src="assets/images/home-icon-008.png" class="service_icon" alt="">
-                                    <h3>Vendor Compliance Services</h3>
+                                    <h3>Vendor Compliance</h3>
                                     <p>A vendor audit serves as a crucial tool for organizations to manage risks
                                         associated with third-party relationships. This process involves a retrospective
                                         examination of vendor invoices to confirm their alignment</p>
@@ -135,7 +135,7 @@
 
                                 <div class="swiper-slide">
                                     <img src="assets/images/home-icon-009.png" class="service_icon" alt="">
-                                    <h3>Contractor Payroll & Compliance Services</h3>
+                                    <h3>Contractor Payroll & Compliance</h3>
                                     <p>Seamless management of contractor payrolls with statutory compliance. From
                                         invoice validation and payment processing to PF, ESIC, TDS, and labor law
                                         adherence — we ensure your contractors are paid on time while keeping your
