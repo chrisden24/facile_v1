@@ -3976,6 +3976,7 @@ h3.banner-one__text {
   .mobile-nav__content .home-product-card,
   .mobile-nav__content .home-product-flex,
   .mobile-nav__content .services-grid,
+  .mobile-nav__content .products-grid,
   .mobile-nav__content .home-product-icon {
     all: unset !important; /* removes ALL CSS applied to these classes */
     display: block !important; /* ensures elements don't break */
