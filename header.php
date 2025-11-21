@@ -315,7 +315,7 @@
                                                                         </div>
                                                                         <h3
                                                                             class="home-showcase__title menu-product-title">
-                                                                            Vendor Compliance</h3>
+                                                                            Vendor Audit</h3>
                                                                     </div>
                                                                 </a>
                                                             </div>
