@@ -3924,7 +3924,7 @@ h3.banner-one__text {
 .services-grid .home-product-card {
     background: #edf0fa;
     border-radius: 12px;
-    padding: 14px;
+    padding: 10px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.07);
     border: 1px solid rgba(0,0,0,0.05);
     transition: .3s;
